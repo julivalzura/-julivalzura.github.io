@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300&display=swap');
+
+* {
+  font-family: 'Carlito', 'sans-serif';
+}
+/* .card-body {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+} */
+.card-body h5 {
+  font-size: 90%;
+  font-weight: bold;
+  color: rgb(4, 4, 85);
+}
+.card-body h1 {
+  font-size: 0.95rem;
+  font-weight: bold;
+  color: rgb(53, 5, 19);
+}
+.card-body h6 {
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: rgb(53, 5, 19);
+}
+.card-body p {
+  font-size: 0.95rem;
+  font-weight: bolder;
+  color: rgb(189, 40, 40);
+}
+.card-body button {
+  font-size: 0.95rem;
+  font-weight: bolder;
+}
